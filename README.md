@@ -179,9 +179,6 @@ For feature requests, bug reports, or suggestions:
 
 Built with modern Python technologies and packaged as a standalone Windows executable for ease of use. No technical knowledge or Python installation required.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
